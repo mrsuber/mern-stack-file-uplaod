@@ -2,7 +2,7 @@
 const mongoose = require('mongoose')
 
 module.exports =()=>{
-  mongoose.connect('mongodb://localhost/upload-files-database',{
+  mongoose.connect('mongodb://localhost/upload-files-database1',{
     // useNewUrlParser:true,
     // useUnifiedTopology:true,
     // useCreateIndex:true,
